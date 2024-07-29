@@ -61,6 +61,34 @@ h1 {
   background-color: #ff9776;
 }
 
+.display-list li {
+  display: flex;
+  flex-direction: column;
+}
+
+.display-list li a {
+  text-decoration: none;
+  color: gray;
+}
+
+.display-list li:hover {
+  background-color: whitesmoke;
+  color: gray;
+  transform: translateX(-1px);
+  -webkit-transform: translateX(-1px);
+  -moz-transform: translateX(-1px);
+  -ms-transform: translateX(-1px);
+  -o-transform: translateX(-1px);
+}
+
+.display-list li a:active {
+  color: purple;
+}
+
+.display-list li a:visited {
+  color: black;
+}
+
 @media screen and (min-width: 636px) {
   .nav-links {
     margin-left: 5em;
