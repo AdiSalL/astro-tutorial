@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkDownPostLayout.astro
-title: "Penyesalanya Adalah Awal Dari Kemerdekaan Kita"
+title: "Ia Menyesal Dan Kita Merdeka"
 pubDate: 2024-07-26
 description: "This is the first post of my new Astro blog."
 author: "Astro Learner"
